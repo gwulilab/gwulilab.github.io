@@ -44,13 +44,13 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The George Washington University", url = "" } ]
+  organizations = [ { name = "The George Washington University", url = "https://www.gwu.edu/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhenyu@gwu.edu"
   address = "Science and Engineering Hall, Room 5980, 800 22nd Street NW, Department of Biomedical Engineering, The George Washington University, Washington, DC 20052"
-  office_hours = ""
+  office_hours = "R: 1:00 - 3:00 pm"
   phone = "(202) 994-4272"
   skype = ""
   telegram = ""
@@ -81,7 +81,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
   latitude = "38.9001"
   longitude = "-77.0493"
