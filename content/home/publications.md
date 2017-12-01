@@ -9,7 +9,7 @@ title = "Recent Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 50
 
 # Number of publications to list.
 count = 10
@@ -33,3 +33,4 @@ list_format = 3
 publication_type = "-1"
 +++
 
+More Publications coming soon. A full list can be found [here](https://sites.google.com/site/gwulilab/publications).

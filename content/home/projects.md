@@ -9,7 +9,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 20
 
 # View.
 # Customize how projects are displayed.
@@ -29,12 +29,20 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
+  name = "Bioinstrumentation"
+  tag = ".bioinstrumentation"
+  
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Microfluidics"
+  tag = ".microfluidics"
+  
+[[filter]]
+  name = "Nanophotonics"
+  tag = ".nanophotonics"
+  
+[[filter]]
+  name = "Others"
+  tag = ".others"
 
 +++
 
