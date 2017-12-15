@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on The Li Lab</title>
-    <link>https://gwulilab.github.io/publication/</link>
+    <link>https://gwulilab.seas.gwu.edu/publication/</link>
     <description>Recent content in Publications on The Li Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Medical Devices on Chips</title>
-      <link>https://gwulilab.github.io/publication/medical-devices-on-chips/</link>
+      <link>https://gwulilab.seas.gwu.edu/publication/medical-devices-on-chips/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwulilab.github.io/publication/medical-devices-on-chips/</guid>
+      <guid>https://gwulilab.seas.gwu.edu/publication/medical-devices-on-chips/</guid>
       <description></description>
     </item>
     
