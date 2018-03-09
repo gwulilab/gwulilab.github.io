@@ -27,6 +27,12 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
-Under Construction...
 
-<iframe src="https://snapshot.raintank.io/dashboard/snapshot/fPCEYCxFeTW47XC7FqZFzTyR6SUFCrYU" width="650" height="300" frameborder="0"></iframe>
+From the NIH website:
+
+>The Pediatric Research using Integrated Sensor Monitoring Systems (PRISMS) program was launched in 2015 to develop sensor-based, integrated health monitoring systems for measuring environmental, physiological, and behavioral factors in pediatric epidemiological studies of asthma, and eventually other chronic diseases. The following three arms of the PRISMS Program will be closely aligned to ensure functionality of the overall program.
+
+More information can be found [here](https://www.nibib.nih.gov/research-funding/prisms).
+
+## Sample Data Dashboard (Not Live)
+<iframe src="https://snapshot.raintank.io/dashboard/snapshot/8y4LXPSZ7pydFrrQScVIFsTWdGxULsBZ" width="650" height="300" frameborder="0"></iframe>
