@@ -70,9 +70,19 @@
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://gwulilab.seas.gwu.edu/project/prisms/</guid>
-      <description>&lt;p&gt;Under Construction&amp;hellip;&lt;/p&gt;
+      <description>
 
-&lt;iframe src=&#34;https://snapshot.raintank.io/dashboard/snapshot/fPCEYCxFeTW47XC7FqZFzTyR6SUFCrYU&#34; width=&#34;650&#34; height=&#34;300&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;From the NIH website:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Pediatric Research using Integrated Sensor Monitoring Systems (PRISMS) program was launched in 2015 to develop sensor-based, integrated health monitoring systems for measuring environmental, physiological, and behavioral factors in pediatric epidemiological studies of asthma, and eventually other chronic diseases. The following three arms of the PRISMS Program will be closely aligned to ensure functionality of the overall program.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More information can be found &lt;a href=&#34;https://www.nibib.nih.gov/research-funding/prisms&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;sample-data-dashboard-not-live&#34;&gt;Sample Data Dashboard (Not Live)&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://snapshot.raintank.io/dashboard/snapshot/8y4LXPSZ7pydFrrQScVIFsTWdGxULsBZ&#34; width=&#34;650&#34; height=&#34;300&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
