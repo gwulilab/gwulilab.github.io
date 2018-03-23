@@ -35,4 +35,4 @@ From the NIH website:
 More information can be found [here](https://www.nibib.nih.gov/research-funding/prisms).
 
 ## Sample Data Dashboard (Not Live)
-<iframe src="https://snapshot.raintank.io/dashboard/snapshot/8y4LXPSZ7pydFrrQScVIFsTWdGxULsBZ" width="650" height="300" frameborder="0"></iframe>
+<iframe src="https://snapshot.raintank.io/dashboard/snapshot/tPmbSUCFapOsX8YGt1CMvoA8H6WKq1v5" width="650" height="300" frameborder="0"></iframe>
