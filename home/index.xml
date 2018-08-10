@@ -8,7 +8,73 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Li Lab</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gwulilab.seas.gwu.edu/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Li Lab @ GWU</title>
+      <link>http://gwulilab.seas.gwu.edu/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/hero/</guid>
+      <description>Welcome to the Nanophotonics and Microfluidics Lab at GW!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gwulilab.seas.gwu.edu/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/about/</guid>
+      <description>About Our Group We are a research group at The George Washington University focusing on nanophotonics and microfluidics. Our group is part of the Biomedical Engineering department. We are currently comprised of both graduate and undergraduate students.
+Some of our projects include a lab-on-a-chip and a wearable ECG ring. We are actively working on a few different projects at this time in collaboration with multiple groups.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://gwulilab.seas.gwu.edu/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://gwulilab.seas.gwu.edu/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://gwulilab.seas.gwu.edu/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/publications/</guid>
+      <description>More Publications coming soon. A full list can be found here.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://gwulilab.seas.gwu.edu/home/people/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/people/</guid>
+      <description>Ph.D. Students  Quan Dong, BME - Bendable and Stretchable Microsystems, Wearable ECG Sensors Baichen Li, BME - Handheld In-Vitro Diagnostic (IVD) Systems, Wearable Alcohol Sensors  Researchers  Jessica Burr - Wearable Continuous Glucose Sensor for Neonates  Master Students  Jun Wang, BME  Undergraduate Students  Jose Almeida, BME Nam Tran, BME Sydney Bailes, BME Priyadharshini Seetharaman, BME  High School Students  Jennifer Boateng, Charles Herbert Flowers High School Jerry Lu, Thomas Jefferson High School Philip Neighbor, Langley High School Shannon Kirkland, Oxon Hill High School Jessica Peyton  Alumni  Allan Guan, Ph.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://gwulilab.seas.gwu.edu/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwulilab.seas.gwu.edu/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
